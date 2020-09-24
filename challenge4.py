@@ -1,3 +1,9 @@
+"""
+Using Webex Teams API to create a new webex room called DevNet High, 
+post a message to the newly created room.
+Includes error detection. 
+"""
+
 import requests
 import json
 
