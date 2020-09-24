@@ -17,7 +17,7 @@ room_data = {  ## create a webex teams room called DevNet High
 }
 
 message_data = {  ## post a message to the newly created room
-    "roomId": WebexRoomID,
+    "roomId": " ",
     "text": "Welcome to the Webex Teams API!"
 }
 
