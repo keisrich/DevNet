@@ -44,7 +44,7 @@ if __name__ == '__main__':
 
     if response.SOMETHING == 200:
         
-        WebexRoomID = text['id']  ## **hint - get room id for later**
+                        ## **hint - get room id for later**
         post_message()  ##post method
     else:
         print('An error occurred')  ##error detection
