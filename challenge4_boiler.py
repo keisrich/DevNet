@@ -4,8 +4,8 @@ post a message to the newly created room.
 Includes error detection. 
 """
 
-import requests
-import json
+## import libraries needed
+## import libraries needed
 
 myWebexToken = " "  # your personal token
 WebexRoomID = " "
